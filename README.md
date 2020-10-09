@@ -1,2 +1,2 @@
 # IKDesign
-Isabelle Kennish Design website
+Isabelle Kennish Design website and resume
